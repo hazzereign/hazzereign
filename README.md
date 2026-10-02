@@ -1,3 +1,4 @@
+![Banner](./banner.jpeg)
 **Hazze (@hazzereign).**<br>
 Always looking for new ways to improve, create, and push my work further.
 
