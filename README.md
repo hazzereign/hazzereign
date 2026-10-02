@@ -1,21 +1,12 @@
 **Hazze (@hazzereign).**<br>
-Always looking forward a way to improve and enhance my work.
+Always looking for new ways to improve, create, and push my work further.
+
 ---
-A **brazilian** ROBLOX programmer who's trying to learn _Python_ and _JavaScript_.<br>
-Why don't you check out my creations? I bet there's a lot of things you might be interested.<br>
-I got no idea what I can put in here. Come back to see if I changed this!
 
-<!--
-**hazzereign/hazzereign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Brazilian ROBLOX developer** exploring the worlds of _Python_ and _JavaScript_.<br>
+I enjoy building things, experimenting with new ideas, and turning random concepts into actual projects.
 
-Here are some ideas to get you started:
+Feel free to take a look around — you might find something interesting.<br>
+I'm always learning, always building, and always looking for the next thing to create.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Thanks for stopping by.**
