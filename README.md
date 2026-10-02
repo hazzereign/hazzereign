@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner.png)<br>
 **Hazze (@hazzereign).**<br>
 Always looking for new ways to improve, create, and push my work further.
 
