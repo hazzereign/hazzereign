@@ -2,6 +2,7 @@
 Always looking forward a way to improve and enhance my work.
 ---
 A **brazilian** ROBLOX programmer who's trying to learn _Python_ and _JavaScript_.<br>
+Why don't you check out my creations? I bet there's a lot of things you might be interested.<br>
 I got no idea what I can put in here. Come back to see if I changed this!
 
 <!--
